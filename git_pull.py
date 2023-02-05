@@ -2,7 +2,7 @@ import subprocess
 import os
 
 # Set the current working directory to the repository root
-repo_root = "/Users/christinamcintyre/react-portfolio-website"
+repo_root = "/path/to/repo"
 os.chdir(repo_root)
 
 # Run the git pull command
